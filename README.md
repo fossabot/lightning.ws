@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphilippgille%2Flightning.ws.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphilippgille%2Flightning.ws?ref=badge_shield)
+
 lightning.ws
 ============
 
@@ -57,3 +59,7 @@ In production, you should:
 - Maybe use [traefik](https://traefik.io/) instead of Caddy as reverse proxy
 - Maybe use [nginx](https://nginx.org/en/) for serving the website files
 - ...
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphilippgille%2Flightning.ws.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphilippgille%2Flightning.ws?ref=badge_large)
